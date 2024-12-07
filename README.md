@@ -8,12 +8,17 @@
      * LLM-Powered Custom Taxonomy Generation
      * LLM-Powered Feature Extraction
    * Stage 2: Conversation Sequence Analysis
-     * Conversation Outcome Classification
+     * Conversation Resolution Categories
      * Pattern Recognition Process
-     * Conversation Pattern Application
+     * Conversation Pattern Analysis
    * Stage 3: CS Insights Data Product
      * Cognitive Architecture
-     * Query Processing Architecture
+     * Data Storage Layer
+     * NLQ Verification Layer
+     * NLQ-to-SQL Translation Layer
+     * Statistical Analysis Layer
+     * Analysis Engine Layer
+     * Insights Generation Layer
 3. User Experience & Access Patterns
    * Customer Service Agents
    * Team Leaders and Quality Assurance
