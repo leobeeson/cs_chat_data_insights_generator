@@ -2,23 +2,43 @@
 
 ## User Journey Phases
 
-1. App Management
-2. Account Set Up
-3. Account Management
-4. Logging In
-5. Product Query
-6. Cart Management
-7. Order Placement
-8. Payment
-9. Invoicing
-10. Cancellation
-11. Delivery
-12. Returns
-13. Refunds
-14. Promotions and Offers
-15. Data Security
-16. Legal and Compliance
-17. Feedback and Suggestions
+The following represent "User Journey Phases" in the context of a consumer's interaction with a digital product or service, such as a mobile app or an e-commerce platform. Each of these phases highlights a specific stage or aspect of the user's experience with the product or service. Here's a brief breakdown of how they function as user journey phases:
+
+1. **App Management**: This phase covers all aspects of managing the application itself, including updates, settings, and troubleshooting. It's a fundamental part of the user experience, especially for mobile app users.
+
+2. **Account Set Up**: This phase is critical for first-time users, guiding them through the process of creating and setting up their account, which is essential for personalized user experience.
+
+3. **Account Management**: Once an account is set up, this phase deals with ongoing account maintenance, like editing profile information or changing subscription details.
+
+4. **Logging In**: This phase is a recurring part of the user journey, focusing on accessing the account securely, which includes password management and authentication processes.
+
+5. **Product Query**: This phase is particularly relevant for e-commerce platforms, encompassing the search and discovery process of products, including price comparisons and product details.
+
+6. **Cart Management**: Essential in e-commerce, this phase deals with the management of shopping carts, a key step in the purchasing process.
+
+7. **Order Placement**: This phase is about the final steps in making a purchase, including payment method selection and order confirmation.
+
+8. **Payment**: A critical phase, focusing on the transaction process itself, including payment methods, security, and receipts.
+
+9. **Invoicing**: This phase covers the generation and management of invoices, which is crucial for both the user and the business for record-keeping and financial management.
+
+10. **Cancellation**: This phase includes options and processes for cancelling orders or subscriptions and handling associated terms and policies.
+
+11. **Delivery**: In e-commerce, this phase deals with everything related to the delivery of physical goods, including tracking and scheduling.
+
+12. **Returns**: This phase manages the process for returning purchased items, which is an essential aspect of customer satisfaction and retention.
+
+13. **Refunds**: Closely linked with returns, this phase deals with the financial aspect of returning funds to the customer.
+
+14. **Promotions and Offers**: This phase involves the application and management of discounts and special offers, a key marketing tool for businesses.
+
+15. **Data Security**: This phase is crucial for maintaining user trust and ensuring the security of user data, including handling data breaches and encryption.
+
+16. **Legal and Compliance**: A phase focusing on legal aspects, including terms and conditions, privacy settings, and compliance with regulations.
+
+17. **Feedback and Suggestions**: This phase is about gathering and managing user feedback, which is vital for continuous improvement and customer satisfaction.
+
+Each of these phases represents a distinct set of interactions and experiences that a user may have with a service or product, and they collectively map out the comprehensive journey of a user, from initial engagement to ongoing usage and management.
 
 ## User Journey Touchpoints per Phase
 
@@ -215,47 +235,7 @@
 4. Submit Formal Complaint
 5. Acknowledge Feedback Receipt
 
-### User Journey Phases Summary
-
-The h3 headers in the taxonomy represent "User Journey Phases" in the context of a consumer's interaction with a digital product or service, such as a mobile app or an e-commerce platform. Each of these phases highlights a specific stage or aspect of the user's experience with the product or service. Here's a brief breakdown of how they function as user journey phases:
-
-1. **App Management**: This phase covers all aspects of managing the application itself, including updates, settings, and troubleshooting. It's a fundamental part of the user experience, especially for mobile app users.
-
-2. **Account Set Up**: This phase is critical for first-time users, guiding them through the process of creating and setting up their account, which is essential for personalized user experience.
-
-3. **Account Management**: Once an account is set up, this phase deals with ongoing account maintenance, like editing profile information or changing subscription details.
-
-4. **Logging In**: This phase is a recurring part of the user journey, focusing on accessing the account securely, which includes password management and authentication processes.
-
-5. **Product Query**: This phase is particularly relevant for e-commerce platforms, encompassing the search and discovery process of products, including price comparisons and product details.
-
-6. **Cart Management**: Essential in e-commerce, this phase deals with the management of shopping carts, a key step in the purchasing process.
-
-7. **Order Placement**: This phase is about the final steps in making a purchase, including payment method selection and order confirmation.
-
-8. **Payment**: A critical phase, focusing on the transaction process itself, including payment methods, security, and receipts.
-
-9. **Invoicing**: This phase covers the generation and management of invoices, which is crucial for both the user and the business for record-keeping and financial management.
-
-10. **Cancellation**: This phase includes options and processes for cancelling orders or subscriptions and handling associated terms and policies.
-
-11. **Delivery**: In e-commerce, this phase deals with everything related to the delivery of physical goods, including tracking and scheduling.
-
-12. **Returns**: This phase manages the process for returning purchased items, which is an essential aspect of customer satisfaction and retention.
-
-13. **Refunds**: Closely linked with returns, this phase deals with the financial aspect of returning funds to the customer.
-
-14. **Promotions and Offers**: This phase involves the application and management of discounts and special offers, a key marketing tool for businesses.
-
-15. **Data Security**: This phase is crucial for maintaining user trust and ensuring the security of user data, including handling data breaches and encryption.
-
-16. **Legal and Compliance**: A phase focusing on legal aspects, including terms and conditions, privacy settings, and compliance with regulations.
-
-17. **Feedback and Suggestions**: This phase is about gathering and managing user feedback, which is vital for continuous improvement and customer satisfaction.
-
-Each of these phases represents a distinct set of interactions and experiences that a user may have with a service or product, and they collectively map out the comprehensive journey of a user, from initial engagement to ongoing usage and management.
-
-### All Touchpoints
+## All Touchpoints
 
 1. Download App
 2. Clear App Cache
